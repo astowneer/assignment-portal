@@ -1,0 +1,44 @@
+{
+  "assignments": [
+    {
+      "id": "6c0e",
+      "name": "Alice",
+      "email": "alice@example.com",
+      "assignment_description": "Build a login page",
+      "github_repo_url": "https://github.com/alice/repo",
+      "candidate_level": "Junior"
+    },
+    {
+      "id": "e65d",
+      "name": "hy",
+      "email": "hy@gmail.com",
+      "assignment_description": "alskdjlaksjdfa",
+      "github_repo_url": "https://github.com",
+      "candidate_level": "Senior"
+    },
+    {
+      "id": "1857",
+      "name": "asfasdf",
+      "email": "anonym@gmail.com",
+      "assignment_description": "asdfkasdjfjl",
+      "github_repo_url": "http://localhost:3000/",
+      "candidate_level": "Junior"
+    },
+    {
+      "id": "45b4",
+      "name": "asdfadsf",
+      "email": "asdfasdf@gmail.com",
+      "assignment_description": "asdfasdfasdf",
+      "github_repo_url": "http://localhost:3000/",
+      "candidate_level": "Middle"
+    }
+  ],
+  "levels": {
+    "levels": [
+      "Junior",
+      "Middle",
+      "Senior",
+      "Principal"
+    ]
+  }
+}

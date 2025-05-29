@@ -1,0 +1,6 @@
+const API_BASE_URL = "https://tools.qa.ale.ai/api/tools/candidates";
+
+export const ApiEndpoints = {
+  CANDIDATE_LEVELS: `${API_BASE_URL}/levels`,
+  ASSIGNMENT: `${API_BASE_URL}/assignments`,
+} as const;
